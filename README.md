@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/termix-1?utm_medium=integration&utm_source=button&utm_campaign=termix)
+
 # Termix on Railway
 
 A one-service [Railway](https://railway.com) template for [Termix](https://termix.site), the self-hosted, plugin-based server manager (web SSH terminal, SSH tunnels, remote file manager, server stats and remote desktop).
